@@ -115,9 +115,19 @@ Outside the world of data, you'll find me exploring new cuisines, traveling, rea
 
 ## 💡✨ Words to Code By
 
-<div align="center" style="font-family: 'Fira Code', monospace; font-size: 1.2em; color: #6f42c1;">
-  <b>“My brain has too many tabs open.”</b><br>
-  <b>“Nothing good ever happens after 2 AM.” — Ted Mosby</b>
+<div align="center" style="font-family: 'Fira Code', monospace; font-size: 1.2em;">
+  <b>
+    <span style="background: linear-gradient(90deg, #6f42c1, #e83e8c, #fd7e14);
+                 -webkit-background-clip: text;
+                 -webkit-text-fill-color: transparent;">
+      “My brain has too many tabs open.”
+    </span><br>
+    <span style="background: linear-gradient(90deg, #6f42c1, #e83e8c, #fd7e14);
+                 -webkit-background-clip: text;
+                 -webkit-text-fill-color: transparent;">
+      “Nothing good ever happens after 2 AM.” — Ted Mosby
+    </span>
+  </b>
 </div>
 
 ---
