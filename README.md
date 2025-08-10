@@ -113,9 +113,9 @@ Outside the world of data, you'll find me exploring new cuisines, traveling, rea
 
 ---
 
-## ✨ Favourite Quotes
+## 💡✨ Words to Code By
 
-<div align="center" style="font-family: 'Fira Code', monospace; font-size: 1.15em;">
+<div align="center" style="font-family: 'Fira Code', monospace; font-size: 1.2em; color: #6f42c1;">
   <b>“My brain has too many tabs open.”</b><br>
   <b>“Nothing good ever happens after 2 AM.” — Ted Mosby</b>
 </div>
