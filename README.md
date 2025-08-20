@@ -15,11 +15,13 @@
 ## 👩‍💻 About Me
 
 <div style="font-family: 'Fira Code', monospace; font-size: 1.1em; line-height: 1.6;">
-Hi! I'm <b>Shatakshi Tripathi</b>, a passionate and curious student, aspiring to become a data scientist.<br>
-With a strong foundation in mathematics and a creative, analytical mindset, I'm dedicated to transforming data into impactful, actionable insights.<br>
+Hi! I'm <b>Shatakshi Tripathi</b>, a passionate and curious student with a strong foundation in mathematics and computer science.<br>
+I enjoy building impactful projects and exploring the intersection of technology and data. My journey has allowed me to gain hands-on experience in web development and strengthen my understanding of data-driven problem solving.<br>
+I aspire to grow into a data scientist, combining my analytical skills and technical knowledge to extract meaningful insights and create innovative solutions.<br>
 My journey is driven by a love for learning, a hunger for challenges, and the joy of discovering patterns in numbers and in life.<br>
 Outside the world of data, you'll find me exploring new cuisines, traveling, reading, and finding inspiration in music.
 </div>
+
 
 ---
 
