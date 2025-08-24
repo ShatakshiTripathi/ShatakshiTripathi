@@ -32,6 +32,11 @@ Outside the world of data, you'll find me exploring new cuisines, traveling, rea
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/-C++-181717?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/></a>
+  <!-- MERN Stack Start -->
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/-Express-181717?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/></a>
+  <!-- MERN Stack End -->
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-181717?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/-NumPy-181717?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/-Scikit--Learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/></a>
@@ -42,6 +47,7 @@ Outside the world of data, you'll find me exploring new cuisines, traveling, rea
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VS%20Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VSCode"/></a>
+</p>
 
 ---
 
